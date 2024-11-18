@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 01 Oct 2024 17:05:14 at https://marketifythemes.net/html/kioto/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://marketifythemes.net/html/kioto/index.html -O1 "C:\desktop\portfolio sagar" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:05:46	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/kioto/css/owl.video.play.png (from https://marketifythemes.net/html/kioto/css/plugins.css)
+17:05:46	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/kioto/true/ (from https://marketifythemes.net/html/kioto/js/jquery.js)
+17:05:46	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/kioto/GET (from https://marketifythemes.net/html/kioto/js/plugins.js)
+17:05:46	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/kioto/Error pJS - No image.src (from https://marketifythemes.net/html/kioto/js/plugins.js)
+17:05:46	Error: 	"Not Found" (404) at link https://marketifythemes.net/html/kioto/img.svg (from https://marketifythemes.net/html/kioto/js/init.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 seconds : 61 links scanned, 55 files written (1727409 bytes overall) [1260724 bytes received at 39397 bytes/sec], 707756 bytes transferred using HTTP compression in 34 files, ratio 24%, 30.5 requests per connection
+(5 errors, 0 warnings, 0 messages)
